@@ -13,7 +13,7 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_registerMenuCommand
 
-// @include      http*
+// @include      http*://www.36588.com.cn/specialMissionHall.do
 // @exclude      http*://mail.google.com/*
 // @exclude      http*://maps.google*
 // @exclude      http*://www.google.com/reader*
